@@ -19,3 +19,9 @@ The company has collected two sets of data:
 1. A table of processing parameters and measurements taken from the 
 completed parts.
 2. A collection of images from scanning the surface of the completed parts.
+
+
+Key Achievements
+1. Successfully developed and deployed a machine learning model for estimating the lifespan of metal parts, enabling the company to predict potential defects early in the production process.
+2. Implemented a defect classification model that automates the identification of defective parts, streamlining the quality control process.
+Provided actionable insights for process optimization based on the interpretation of model outputs.
